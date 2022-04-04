@@ -12,3 +12,4 @@
 - [P5057 [CQOI2006]简单题](/blog/note-rem-p5057/)
 - [P1816 忠诚](/blog/note-rem-p1816/)
 - [P2216 [HAOI2007]理想的正方形](/blog/note-rem-p2216/)
+- [P2613 【模板】有理数取余](/blog/note-rem-p2613/)
