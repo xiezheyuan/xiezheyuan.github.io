@@ -8,3 +8,4 @@
 
 - [P1637 三元上升子序列](/blog/note-rem-p1637/)
 - [P2251 质量检测](/blog/note-rem-p2251/)
+- [P1531 I Hate It](/blog/note-rem-p1531/)
