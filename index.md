@@ -11,3 +11,4 @@
 - [P1531 I Hate It](/blog/note-rem-p1531/)
 - [P5057 [CQOI2006]简单题](/blog/note-rem-p5057/)
 - [P1816 忠诚](/blog/note-rem-p1816/)
+- [P2216 [HAOI2007]理想的正方形](/blog/note-rem-p2216/)
