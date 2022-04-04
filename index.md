@@ -10,3 +10,4 @@
 - [P2251 质量检测](/blog/note-rem-p2251/)
 - [P1531 I Hate It](/blog/note-rem-p1531/)
 - [P5057 [CQOI2006]简单题](/blog/note-rem-p5057/)
+- [P1816 忠诚](/blog/note-rem-p1816/)
