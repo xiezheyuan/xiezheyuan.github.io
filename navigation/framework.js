@@ -1,5 +1,5 @@
 const generateHTML = (data) => {
-    const { title, summary, links } = data;
+    const { title, links } = data;
     let html = `<h2 class="ui header">${title}</h2>`;
     html += `<div class="ui divider"></div>`;
     html += `<div class="ui relaxed divided list">`;
@@ -9,7 +9,7 @@ const generateHTML = (data) => {
                 <i class="large ${link.icon} middle aligned icon"></i>
                 <div class="content">
                     <a class="header" href="${link.url}" target="_blank">${link.title}</a>
-                    <div class="description">${summary}</div>
+                    <div class="description">${link.summary}</div>
                 </div>
             </div>`;
     });

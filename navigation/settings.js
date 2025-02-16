@@ -3,23 +3,23 @@ build({
     sections: [
         {
             title: '寻找 xzy',
-            summary: 'xzy 可能活跃的平台',
             links: [
                 {
                     title: 'Luogu',
                     url: 'https://www.luogu.com.cn/user/413065',
-                    icon: 'book'
+                    icon: 'book',
+                    summary: 'luogu 413065'
                 }
             ]
         },
         {
             title: '工具',
-            summary: '列出一些 xzy 制作的实用工具',
             links: [
                 {
                     title: '括号序列-树 研究工具',
                     url: './tools/bracket-tree.html',
-                    icon: 'terminal'
+                    icon: 'terminal',
+                    summary: '支持括号序列和树结构的互相转换'
                 }
             ]
         }
