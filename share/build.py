@@ -18,7 +18,6 @@ def convert_markdown_to_html(file_path):
         "mdx_math"
     ], extension_configs={'mdx_math': {'enable_dollar_delimiter': True}})
     return html_content
-# markdown.Markdown(extensions=['mdx_math'], extension_configs={'mdx_math': {'enable_dollar_delimiter': True}})
 
 def generate_html_pages(files):
     template_loader = jinja2.FileSystemLoader(searchpath="./html")
