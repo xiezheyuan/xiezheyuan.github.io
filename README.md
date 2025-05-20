@@ -3,4 +3,4 @@
 
 The pages is in the branch `gh-pages`.
 
-The source code is private.
+The source code is private, and at <https://github.com/xiezheyuan/blog>.
